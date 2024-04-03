@@ -14,6 +14,7 @@ public class MenuInicio extends Menu {
     /**
      * Atributo booleano que indica si el usuario debe salir de la aplicación.
      */
+
     boolean ciclo = true;
     /**
      * Gestiona las operaciones de usuario
