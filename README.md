@@ -1,6 +1,7 @@
-# AlkeWallet -Ejercicio para el Bootcamp Talento Digital sobre una aplicación de Gestión Financiera, en este Personal
+# AlkeWallet -Ejercicio para el Bootcamp Talento Digital sobre una aplicación de Gestión Financiera.
 
-**AlkeWallet** es una solución práctica y moderna para la gestión de finanzas personales, desarrollada como parte del bootcamp Talento Digital. Este proyecto está diseñado para proporcionar una interfaz sencilla y amigable que permite a los usuarios realizar operaciones financieras básicas como depositar, retirar y consultar saldos, así como convertir monedas a diferentes divisas.
+**AlkeWallet** 
+- Es una solución práctica y moderna para la gestión de finanzas personales, desarrollada como parte del bootcamp Talento Digital. Este proyecto está diseñado para proporcionar una interfaz sencilla y amigable que permite a los usuarios realizar operaciones financieras básicas como depositar, retirar y consultar saldos, así como convertir monedas a diferentes divisas.
 
 ## Características Principales
 
@@ -12,3 +13,5 @@
 ## Estructura del Proyecto
 
 El proyecto se organiza en diferentes paquetes que separan la lógica de usuario, las operaciones de cuenta y las transacciones, asegurando una estructura clara y mantenible.
+
+## En esta Primera versión se estará usando lenguaje JAVA 
