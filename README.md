@@ -14,4 +14,5 @@
 
 ➡️ El proyecto se organiza en diferentes paquetes que separan la lógica de usuario, las operaciones de cuenta y las transacciones, asegurando una estructura clara y mantenible.
 
-> [!IMPORTANT] ## En esta Primera versión se estará usando lenguaje JAVA 
+> [!IMPORTANT]
+>  En esta Primera versión se estará usando lenguaje JAVA 
